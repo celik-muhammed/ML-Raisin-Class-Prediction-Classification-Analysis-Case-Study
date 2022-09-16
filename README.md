@@ -9,6 +9,9 @@
 <img src='https://i.ibb.co/HBwNqjv/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/NVzFgdv/download.png' alt='' width=90%, height=300>
 
+<img src='https://i.ibb.co/VS4g5sS/download.png' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/Rg7WNgb/download.png' alt='' width=90%, height=300>
+
 - [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 - [KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 - [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
